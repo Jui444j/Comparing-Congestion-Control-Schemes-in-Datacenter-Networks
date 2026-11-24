@@ -87,7 +87,7 @@ Different traffic distribution strategies are investigated to evaluate their eff
 
 | Metric | Description |
 |---|---|
-| Flow Completion Time | Time required to complete a network flow |
+| Flow Completion Time (FCT) | Time required to complete a network flow |
 | Average FCT | Mean flow completion time |
 | Tail Latency | High-percentile flow completion latency |
 | Queue Occupancy | Amount of buffered traffic at network switches |
@@ -130,9 +130,17 @@ Detailed experimental results, performance graphs, and discussion are provided i
 
 ## Project Report and Presentation
 
-- [Final Technical Report](./ECE6383_FinalProject%20%20%287%29.pdf)
-- [Project Presentation Slides](./final_hSpeed_d.pptx)
+- [Final Technical Report (PDF)](./ECE6383_FinalProject%20%20%287%29.pdf)
+- [Project Presentation Slides (PowerPoint)](./final_hSpeed_d.pptx)
 
 ## Final Video Presentation
 
-[Watch the Final Project Presentation on Google Drive](https://drive.google.com/file/d/18OQ4Y0zCCY_MW-ESFtU0nY1BNnsWx2OF/view?usp=sharing)
+The video presentation explains the research objectives, network architecture, congestion control mechanisms, experimental methodology, performance results, and conclusions.
+
+[View the Final Video Presentation](https://github.com/Jui444j/Comparing-Congestion-Control-Schemes-in-Datacenter-Networks/blob/main/high_speed_final_jh1004.mov)
+
+## Complete Project Documentation and htsim Simulation
+
+The complete project package includes technical documentation, htsim network simulation files, experimental configurations, and supporting project materials.
+
+[Access the Complete Project Documentation and htsim Simulation Files on Google Drive](https://drive.google.com/file/d/18OQ4Y0zCCY_MW-ESFtU0nY1BNnsWx2OF/view?usp=sharing)
